@@ -1,0 +1,19 @@
+{
+  "name": "location-change-redux-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "10",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.138",
+    "typescript": "3.6.2"
+  }
+}
